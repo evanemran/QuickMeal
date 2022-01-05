@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">QuickMeal</string>
+<!--    emranevan-->
+<!--    <string name="api_key">56f193acdfdb4203849a4f2ccce9f7ca</string>-->
+
+<!--    aaryahmd-->
+<!--    <string name="api_key">c08f4981c8a44110b7ee3521f12796b4</string>-->
+
+<!--    aaryahmd1-->
+    <string name="api_key">fc280aba16db4aac9fd7c738629651cc</string>
+
+    <string-array name="tags">
+        <item>Main course</item>
+        <item>Side dish</item>
+        <item>Dessert</item>
+        <item>Appetizer</item>
+        <item>Salad</item>
+        <item>Bread</item>
+        <item>Breakfast</item>
+        <item>Soup</item>
+        <item>Beverage</item>
+        <item>Sauce</item>
+        <item>Marinade</item>
+        <item>Fingerfood</item>
+        <item>Snack</item>
+        <item>Drink</item>
+    </string-array>
+</resources>
